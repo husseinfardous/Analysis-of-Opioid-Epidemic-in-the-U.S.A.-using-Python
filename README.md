@@ -1,1 +1,1 @@
-# Analysis-of-Opioid-Epidemic-in-the-U.S.A.-using-Python
+This repository contains the coding portion of the project (Analyzing the Opioid Epidemic in the U.S.A.) that my group submitted to the Columbia University The Art of Engineering Course (ENGI E1102) in the Fall 2017 Semester.
